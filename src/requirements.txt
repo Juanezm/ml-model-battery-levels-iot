@@ -1,0 +1,12 @@
+Pillow==8.3.2
+reportlab==3.6.1
+imgkit==1.0.2
+numpy==1.22.4
+pandas==1.5.3
+plotly==5.13.1
+requests==2.27.1
+seaborn==0.12.2
+sklearn-pandas==2.2.0
+scikit-learn==1.2.2
+matplotlib==3.7.1
+Jinja2==3.1.2
